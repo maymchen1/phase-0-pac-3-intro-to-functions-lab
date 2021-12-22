@@ -50,3 +50,7 @@ describe('sayHiToHeadphonedRoommate(string)', function() {
     );
   });
 })
+function shout(string) {
+  return string.toUpperCase;
+}
+"HELLO" .toUpperCase();
